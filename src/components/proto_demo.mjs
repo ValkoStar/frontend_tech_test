@@ -18,23 +18,23 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'ARTERY',
+      sub: "ARTERY",
       length: 5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology',
-        'Intestine',
-        'Maxillofacial',
-        'Neurosurgery',
-        'Obstetrics',
-        'Oral',
+        "General Surgery",
+        "Gynecology",
+        "Intestine",
+        "Maxillofacial",
+        "Neurosurgery",
+        "Obstetrics",
+        "Oral",
       ],
-      finer: 'MOSQUITO',
+      finer: "MOSQUITO",
 
-      broader: 'FORCEP',
+      broader: "FORCEP",
     },
   },
   {
@@ -56,20 +56,20 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'PLASTIC',
+      sub: "PLASTIC",
       length: 7,
-      characteristic: 'ANGLED',
+      characteristic: "ANGLED",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Oral & Maxillofacial',
+        "Oral & Maxillofacial",
       ],
-      finer: 'MEYERDING',
+      finer: "MEYERDING",
 
-      broader: 'RETRACTOR',
+      broader: "RETRACTOR",
     },
   },
   {
@@ -92,11 +92,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 2,
-      finer: 'JACOBS',
+      finer: "JACOBS",
 
-      broader: 'KEY',
+      broader: "KEY",
     },
   },
   {
@@ -118,11 +118,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 10.5,
-      finer: 'HOHMANN',
+      finer: "HOHMANN",
 
-      broader: 'RETRACTOR',
+      broader: "RETRACTOR",
     },
   },
   {
@@ -137,7 +137,7 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Added the U field in the scalpel id',
+          changes: "Added the U field in the scalpel id",
         },
       ],
     },
@@ -145,21 +145,21 @@ export const proto = [
     properties: {
       sub: null,
       length: 2.5,
-      characteristic: 'ANGLED',
+      characteristic: "ANGLED",
       speciality: [
-        'Dental',
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
-        'Intestine',
-        'Maxillofacial',
-        'Oral',
+        "General Surgery",
+        "Gynecology & Obstetrics",
+        "Intestine",
+        "Maxillofacial",
+        "Oral",
 
-        'Plastic Surgery',
+        "Plastic Surgery",
       ],
-      finer: 'BULLDOG',
+      finer: "BULLDOG",
 
-      broader: 'CLIP',
+      broader: "CLIP",
     },
   },
   {
@@ -182,11 +182,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 7.5,
-      finer: 'TRANSFER',
+      finer: "TRANSFER",
 
-      broader: 'SHIELD',
+      broader: "SHIELD",
     },
   },
   {
@@ -202,29 +202,29 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Corrected scalpel id',
+          changes: "Corrected scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'OPHTHALMIC',
+      sub: "OPHTHALMIC",
       length: 4.5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
-        'Dental',
+        "Cardiovascular",
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Neurosurgery',
-        'Ophthalmic',
-        'Oral & Maxillofacial',
+        "Neurosurgery",
+        "Ophthalmic",
+        "Oral & Maxillofacial",
       ],
-      finer: 'STEVENS TENOTOMY',
+      finer: "STEVENS TENOTOMY",
 
-      broader: 'SCISSOR',
+      broader: "SCISSOR",
     },
   },
   {
@@ -247,11 +247,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 4,
-      finer: 'BATTERY',
+      finer: "BATTERY",
 
-      broader: 'HOUSING',
+      broader: "HOUSING",
     },
   },
   {
@@ -274,9 +274,9 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 2,
-      finer: 'JACOBS',
+      finer: "JACOBS",
     },
   },
   {
@@ -299,11 +299,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 6.5,
-      finer: 'WIRE COLLECT',
+      finer: "WIRE COLLECT",
 
-      broader: 'TRIGGER',
+      broader: "TRIGGER",
     },
   },
   {
@@ -326,11 +326,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 6.5,
-      finer: 'PIN COLLECT',
+      finer: "PIN COLLECT",
 
-      broader: 'TRIGGER',
+      broader: "TRIGGER",
     },
   },
   {
@@ -345,19 +345,19 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Added the U field in the scalpel id',
+          changes: "Added the U field in the scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'SCALPEL',
+      sub: "SCALPEL",
       length: 5,
-      characteristic: 'STRAIGHT',
-      speciality: ['Dental', 'General Surgery'],
-      finer: 'NO 3',
+      characteristic: "STRAIGHT",
+      speciality: ["Dental", "General Surgery"],
+      finer: "NO 3",
 
-      broader: 'HANDLE',
+      broader: "HANDLE",
     },
   },
   {
@@ -380,11 +380,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 4.5,
-      finer: 'IRIS',
+      finer: "IRIS",
 
-      broader: 'SCISSOR',
+      broader: "SCISSOR",
     },
   },
   {
@@ -406,11 +406,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'ORTHOPAEDIC',
+      sub: "ORTHOPAEDIC",
       length: 8.5,
-      finer: 'NORFOLK AND NORWICH',
+      finer: "NORFOLK AND NORWICH",
 
-      broader: 'RETRACTOR',
+      broader: "RETRACTOR",
     },
   },
   {
@@ -432,11 +432,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'PERIOSTEAL',
+      sub: "PERIOSTEAL",
       length: 7.5,
-      finer: 'MACDONALD',
+      finer: "MACDONALD",
 
-      broader: 'ELEVATOR',
+      broader: "ELEVATOR",
     },
   },
   {
@@ -459,11 +459,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 6,
-      finer: 'ROTARY',
+      finer: "ROTARY",
 
-      broader: 'DRILL',
+      broader: "DRILL",
     },
   },
   {
@@ -479,16 +479,16 @@ export const proto = [
       valid: false,
       log: [
         {
-          changes: 'Corrected scalpel id',
+          changes: "Corrected scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
       length: 7,
-      finer: 'TRACHEAL',
+      finer: "TRACHEAL",
 
-      broader: 'RETRACTOR',
+      broader: "RETRACTOR",
     },
   },
   {
@@ -510,11 +510,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'TISSUE',
+      sub: "TISSUE",
       length: 7,
-      finer: 'GILLIES',
+      finer: "GILLIES",
 
-      broader: 'HOOK',
+      broader: "HOOK",
     },
   },
   {
@@ -536,23 +536,23 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'TOWEL',
+      sub: "TOWEL",
       length: 3.5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology',
-        'Intestine',
-        'Maxillofacial',
-        'Neurosurgery',
-        'Obstetrics',
-        'Oral',
+        "General Surgery",
+        "Gynecology",
+        "Intestine",
+        "Maxillofacial",
+        "Neurosurgery",
+        "Obstetrics",
+        "Oral",
       ],
-      finer: 'BACHAUS',
+      finer: "BACHAUS",
 
-      broader: 'CLIP',
+      broader: "CLIP",
     },
   },
   {
@@ -574,23 +574,23 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'OPHTHALMIC',
+      sub: "OPHTHALMIC",
       length: 4.5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
-        'Dental',
+        "Cardiovascular",
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Neurosurgery',
-        'Ophthalmic',
-        'Oral & Maxillofacial',
+        "Neurosurgery",
+        "Ophthalmic",
+        "Oral & Maxillofacial",
       ],
-      finer: 'IRIS',
+      finer: "IRIS",
 
-      broader: 'SCISSOR',
+      broader: "SCISSOR",
     },
   },
   {
@@ -613,11 +613,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 7,
-      finer: 'LANE',
+      finer: "LANE",
 
-      broader: 'FORCEP',
+      broader: "FORCEP",
     },
   },
   {
@@ -639,11 +639,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 6.5,
-      finer: 'MCINDOE',
+      finer: "MCINDOE",
 
-      broader: 'CUTTER',
+      broader: "CUTTER",
     },
   },
   {
@@ -665,11 +665,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'PERIOSTEAL',
+      sub: "PERIOSTEAL",
       length: 6.5,
-      finer: 'MITCHELL',
+      finer: "MITCHELL",
 
-      broader: 'ELEVATOR',
+      broader: "ELEVATOR",
     },
   },
   {
@@ -685,27 +685,27 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Corrected scalpel id',
+          changes: "Corrected scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'NEEDLE',
+      sub: "NEEDLE",
       length: 6.5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Neurosurgery',
-        'Oral & Maxillofacial',
+        "Neurosurgery",
+        "Oral & Maxillofacial",
       ],
-      finer: 'SYME',
+      finer: "SYME",
 
-      broader: 'GUIDE',
+      broader: "GUIDE",
     },
   },
   {
@@ -728,11 +728,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 8,
-      finer: 'TRANSFER',
+      finer: "TRANSFER",
 
-      broader: 'SHIELD',
+      broader: "SHIELD",
     },
   },
   {
@@ -755,11 +755,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 3.3,
-      finer: 'JACOBS',
+      finer: "JACOBS",
 
-      broader: 'CHUCK',
+      broader: "CHUCK",
     },
   },
   {
@@ -782,11 +782,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 3.3,
-      finer: 'AO SMALL',
+      finer: "AO SMALL",
 
-      broader: 'DRILL',
+      broader: "DRILL",
     },
   },
   {
@@ -801,28 +801,28 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Corrected scalpel id',
+          changes: "Corrected scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 6,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology',
-        'Maxillofacial',
-        'Microsurgery',
-        'Neurosurgery',
-        'Obstetrics',
+        "General Surgery",
+        "Gynecology",
+        "Maxillofacial",
+        "Microsurgery",
+        "Neurosurgery",
+        "Obstetrics",
       ],
-      finer: 'GILLIES',
+      finer: "GILLIES",
 
-      broader: 'FORCEP',
+      broader: "FORCEP",
     },
   },
   {
@@ -844,13 +844,13 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 8,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [],
-      finer: 'STILLE',
+      finer: "STILLE",
 
-      broader: 'OSTEOTOME',
+      broader: "OSTEOTOME",
     },
   },
   {
@@ -861,9 +861,9 @@ export const proto = [
         vertical: 1,
       },
       variations: {
-        '4': {
+        4: {
           annotation: [],
-          img_bucket: '',
+          img_bucket: "",
         },
       },
     },
@@ -878,11 +878,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BIPOLAR',
+      sub: "BIPOLAR",
       length: null,
-      finer: 'DIATHERMY',
+      finer: "DIATHERMY",
 
-      broader: 'CABLE',
+      broader: "CABLE",
     },
   },
   {
@@ -904,22 +904,22 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 5,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [
-        'Cardiovascular',
-        'Dental',
+        "Cardiovascular",
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
-        'Microsurgery',
-        'Neurosurgery',
-        'Ophthalmic',
+        "General Surgery",
+        "Gynecology & Obstetrics",
+        "Microsurgery",
+        "Neurosurgery",
+        "Ophthalmic",
       ],
-      finer: 'ADSON',
+      finer: "ADSON",
 
-      broader: 'FORCEP',
+      broader: "FORCEP",
     },
   },
   {
@@ -942,11 +942,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'GENERAL',
+      sub: "GENERAL",
       length: 8.5,
-      finer: 'LANGENBECK',
+      finer: "LANGENBECK",
 
-      broader: 'RETRACTOR',
+      broader: "RETRACTOR",
     },
   },
   {
@@ -968,23 +968,23 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'TOWEL',
+      sub: "TOWEL",
       length: 4.5,
-      characteristic: 'CURVED',
+      characteristic: "CURVED",
       speciality: [
-        'Cardiovascular',
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology',
-        'Intestine',
-        'Maxillofacial',
-        'Neurosurgery',
-        'Obstetrics',
-        'Oral',
+        "General Surgery",
+        "Gynecology",
+        "Intestine",
+        "Maxillofacial",
+        "Neurosurgery",
+        "Obstetrics",
+        "Oral",
       ],
-      finer: 'BACHAUS',
+      finer: "BACHAUS",
 
-      broader: 'CLIP',
+      broader: "CLIP",
     },
   },
   {
@@ -1007,11 +1007,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 3.3,
-      finer: 'AO SMALL',
+      finer: "AO SMALL",
 
-      broader: 'DRILL',
+      broader: "DRILL",
     },
   },
   {
@@ -1034,11 +1034,11 @@ export const proto = [
     },
     time: 1687363210,
     properties: {
-      sub: 'BONE',
+      sub: "BONE",
       length: 3.3,
-      finer: 'HUDSON',
+      finer: "HUDSON",
 
-      broader: 'ATTACHMENT',
+      broader: "ATTACHMENT",
     },
   },
   {
@@ -1054,27 +1054,27 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Corrected scalpel id',
+          changes: "Corrected scalpel id",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 5,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [
-        '',
-        'Cardiovascular',
+        "",
+        "Cardiovascular",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Neurosurgery Spine',
+        "Neurosurgery Spine",
       ],
-      finer: 'SURGEON',
+      finer: "SURGEON",
 
-      broader: 'SCISSOR',
+      broader: "SCISSOR",
     },
   },
   {
@@ -1090,29 +1090,29 @@ export const proto = [
       valid: false,
       log: [
         {
-          changes: 'Updated attribute',
+          changes: "Updated attribute",
         },
       ],
     },
     time: 1687363210,
     properties: {
-      sub: 'DISSECTING',
+      sub: "DISSECTING",
       length: 4.5,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [
-        'Cardiovascular',
-        'Dental',
+        "Cardiovascular",
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
+        "General Surgery",
+        "Gynecology & Obstetrics",
 
-        'Neurosurgery',
-        'Ophthalmic',
-        'Oral & Maxillofacial',
+        "Neurosurgery",
+        "Ophthalmic",
+        "Oral & Maxillofacial",
       ],
-      finer: 'IRIS',
+      finer: "IRIS",
 
-      broader: 'SCISSOR',
+      broader: "SCISSOR",
     },
   },
   {
@@ -1127,7 +1127,7 @@ export const proto = [
       valid: true,
       log: [
         {
-          changes: 'Added the U field in the scalpel id',
+          changes: "Added the U field in the scalpel id",
         },
       ],
     },
@@ -1135,21 +1135,21 @@ export const proto = [
     properties: {
       sub: null,
       length: 10,
-      characteristic: 'STRAIGHT',
+      characteristic: "STRAIGHT",
       speciality: [
-        'Dental',
+        "Dental",
 
-        'General Surgery',
-        'Gynecology & Obstetrics',
-        'Intestine',
-        'Maxillofacial',
-        'Oral',
+        "General Surgery",
+        "Gynecology & Obstetrics",
+        "Intestine",
+        "Maxillofacial",
+        "Oral",
 
-        'Plastic Surgery',
+        "Plastic Surgery",
       ],
-      finer: 'DIATHERMY',
+      finer: "DIATHERMY",
 
-      broader: 'QUIVER',
+      broader: "QUIVER",
     },
   },
-]
+];
